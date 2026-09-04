@@ -1,0 +1,28 @@
+{
+  "nombre": "Tu Nombre Profesional",
+  "rol": "Full Stack Developer / Tech Enthusiast",
+  "bio": "Desarrollador enfocado en soluciones escalables. Apasionado por la tecnología y el aprendizaje continuo.",
+  "cv_url": "assets/mi-cv.pdf",
+  "redes": {
+    "linkedin": "https://linkedin.com/in/tuusuario",
+    "github": "https://github.com/tuusuario",
+    "discord": "TuUser#1234",
+    "email": "correo@ejemplo.com"
+  },
+  "certificados": [
+    {
+      "titulo": "Full Stack Web Development",
+      "institucion": "Platzi / Udemy",
+      "fecha": "2023",
+      "link": "https://enlace-al-certificado.com",
+      "imagen": "https://via.placeholder.com/300x200" 
+    },
+    {
+      "titulo": "AWS Certified Cloud Practitioner",
+      "institucion": "Amazon Web Services",
+      "fecha": "2024",
+      "link": "#",
+      "imagen": "assets/cert-aws.png"
+    }
+  ]
+}
